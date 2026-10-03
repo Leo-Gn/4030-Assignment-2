@@ -5,5 +5,11 @@ data/
 *.zip
 *.pt
 
+# poster
 /poster_outputs/poster_test_images.npz
 !/poster_outputs/model.pt
+
+# lego
+!/lego_output_res200/lego_model.pt
+!/lego_output_res400/lego_model.pt
+!/lego_output_res400_40k_pts192/lego_model.pt
