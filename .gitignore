@@ -13,3 +13,7 @@ data/
 
 # Poster
 /poster_outputs/poster_test_images.npz
+/poster_outputs_*/
+*.npz
+*.pth
+*.ckpt
